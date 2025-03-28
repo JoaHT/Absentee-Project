@@ -1,4 +1,4 @@
-# PROJECT - EMPLOYEE HEALTH
+# PROJECT - Absenteeism in the workplace
 
 ![](images/Absentee.jpg)
 
