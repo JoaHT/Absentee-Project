@@ -1,6 +1,6 @@
 # PROJECT - EMPLOYEE HEALTH
 
-# [Power BI Visualization](https://app.powerbi.com/Redirect?action=OpenReport&appId=eeaeff4c-a31f-428b-b715-94f43b4b6255&reportObjectId=f182c83b-cd96-4a76-91ab-a67004188886&ctid=d05bc23a-4bdc-426f-b7f9-fede45cfbd56&reportPage=89cab110b6d868201da1&pbi_source=appShareLink&portalSessionId=924aa473-1ee2-4b98-bdaa-3b3f11e3611f)
+![](images/AbsenteeProject.jpg)
 
 In this project we are aiming to use analytics and the data on employers to reward a healthy employee lifestyle. We are going to create a SQL Database, Query it and do Exploratory Data Analysis, before we connect the Database to Power BI and create an informative Dashboard on the topic. The problems we are going to solve are; Provide a list of Healthy Individuals and employees with low absent for a healthy bonus program with a total budget of $1000, and calculate a wage increase or annual compensation for Non-Smokers with a budget of $983,221. And finally create a Dashboard explaining Absenteeism at work.
 
